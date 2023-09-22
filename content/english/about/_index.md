@@ -11,7 +11,7 @@ noauthor: true
 
 A **shack** is a type of small, often primitive shelter or dwelling. It can also refer to a small holiday house with limited conveniences, for instance it may not have running water or electricity.
 
-![shack](/images/lew_kilborn_shack.jpg)
+{{< image src="/images/lew_kilborn_shack.jpg" caption="" alt="Shack" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 This "Internet Shack" is the perfect place for random experiments that bother nobody.
 
