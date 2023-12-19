@@ -1,5 +1,5 @@
 ---
-title: "Conferences"
+title: "My Talks"
 # meta title
 meta_title: ""
 image: "/images/auditoire.jpeg"
@@ -8,7 +8,7 @@ draft: false
 noauthor: true
 ---
 
-I like to share with others my enthusiasm about what I discovered during my explorations. Especially if it can make people's life easier. 
+##### I like to share with others my enthusiasm about what I discovered during my explorations. Especially if it can make people's life easier. 
 
 {{< image src="images/auditoire.jpeg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
