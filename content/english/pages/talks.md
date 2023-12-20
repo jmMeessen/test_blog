@@ -14,6 +14,7 @@ noauthor: true
 
 These are the conferences or talks I had the pleasure to make.  
 
+* "**Gitpod: la fin des frictions inutiles pour contribuer à un projet OSS ?**", [DEVOXX-FR 2022 (Paris)](https://www.youtube.com/watch?v=7OlynADvoCc)
 * "**Automating Jenkins (re)Installation: Some Thoughts, Tips and Tricks**", [DevOps World Lisbon](https://devopsworldjenkinsworld2019lisbo.sched.com/event/VFIb/automating-jenkins-reinstallation-some-thoughts-tips-and-tricks), December 2019
 * "**Jenkins Pipeline Introduction**", (workshop) FOSDEM Brussels, February 2019
 * "**Pipelines & Blue Ocean 101**", (workshop) Jenkins User Conference (JUC) Paris, June 2018 
