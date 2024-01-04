@@ -16,16 +16,15 @@ name = "My Talks"
 url = "talks/"
 weight = 3
 
-
 [[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
 name = "Blog"
 url = "blog/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Pages"
+hasChildren = true
 
 [[main]]
 parent = "Pages"
@@ -36,11 +35,6 @@ url = "elements/"
 parent = "Pages"
 name = "Contact"
 url = "contact/"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
 
 [[main]]
 parent = "Pages"
