@@ -39,8 +39,6 @@ So I chose to go for the proverbial plan B.
 
 The idea is to have several docker-compose.yml that will first be "superposed" before being processed by the docker-compose engine. 
 
-<!-- ![kimsufi](/images/blog/old/refactoringAnsible/layers2.png) -->
-
 {{< image src="/images/blog/old/refactoringAnsible/layers2.png" caption="" alt="kimsufi" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 Each compose file defines what is needed to activate a single service. It describes the service and volume part but also the required additional configuration to the "web" service (reverse proxy).
