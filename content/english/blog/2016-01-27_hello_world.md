@@ -10,7 +10,7 @@ noauthor: true
 
 This is the first post of this blog.
 
-It is the place where I plan to store notes about my various experimentations,
+It is the place where I plan to store notes about my various experimentation,
 explorations and discoveries. These notes are mainly for myself. Writing is a way for me
 to structure what I learned. And by the way, it is a good way to stop worrying about forgetting.
 
