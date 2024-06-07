@@ -1,6 +1,6 @@
 +++
 author = ""
-comments = true
+comments = false
 date = "2017-04-02T00:01:00+01:00"
 draft = false
 image = "images/blog/old/refactoringAnsible/refactoring.gif"

@@ -1,6 +1,6 @@
 +++
 author = ""
-comments = true
+comments = false
 date = "2016-11-22T22:00:00+01:00"
 draft = false
 image = "images/blog/old/logo-lime-survey.png"

@@ -1,6 +1,6 @@
 +++
 author = ""
-comments = true
+comments = false
 date = "2016-10-22T22:29:59+01:00"
 draft = false
 image = "images/blog/old/PI-lab.png"
